@@ -1,4 +1,4 @@
-# NOAA NEFSC Bottom Trawl Survey Spatial Data
+# NOAA NEFSC Ecosystems Survey Branch Spatial Data
 
 This repository is a scientific product and is not official communication of the National Oceanic and
 Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project code is
