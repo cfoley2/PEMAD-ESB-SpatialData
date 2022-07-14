@@ -1,0 +1,15 @@
+README file for requested data object: //globec.whoi.edu:80/globec/gb/bathymetry 
+Mon Mar  1 12:20:32 2021
+ 
+Locating data files.  Report any errors here:  
+
+OK ... START MAKING DATA FILES ...  
+... creating: bathymetry.netcdf 
+... for: //globec.whoi.edu:80/globec/gb/bathymetry 
+... counting records in /data302/wsass/port80/production-Apr17/htdocs/jgofsopt/80/73.69.113.221/download/bathymetry/bathymetry.netcdf 
+... 1508 lines of data in /data302/wsass/port80/production-Apr17/htdocs/jgofsopt/80/73.69.113.221/download/bathymetry/bathymetry.netcdf. 
+ 
+  
+Documentation info file written. 
+//globec.whoi.edu:80/globec/gb/bathymetry data download request completed: 
+Mon Mar  1 12:20:36 2021 
