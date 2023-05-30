@@ -1,5 +1,0 @@
-Mon Mar  1 12:20:32 2021 | PID | 4424
-Mon Mar  1 12:20:32 2021 | OBJECT | //globec.whoi.edu:80/globec/gb/bathymetry
-Mon Mar  1 12:20:32 2021 | OBJECT_W_SELECTIONS | //globec.whoi.edu:80/globec/gb/bathymetry
-Mon Mar  1 12:20:32 2021 | OPTIONS | netcdf,onebig,zip
-Mon Mar  1 12:20:32 2021 | END_DATA_EXTRACTION | 
